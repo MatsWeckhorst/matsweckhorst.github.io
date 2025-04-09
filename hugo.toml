@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Hello There'
 theme = 'hello-friend-ng'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [params]
   dateform        = "Jan 2, 2006"
