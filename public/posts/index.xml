@@ -1,0 +1,26 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Hello There</title>
+        <link>https://weckhorst.no/posts/</link>
+        <description>Recent content in Posts on Hello There</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Wed, 09 Apr 2025 10:35:40 +0200</lastBuildDate>
+        <atom:link href="https://weckhorst.no/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Hello World</title>
+            <link>https://weckhorst.no/posts/hello-world/</link>
+            <pubDate>Wed, 09 Apr 2025 10:35:40 +0200</pubDate>
+            
+            <guid>https://weckhorst.no/posts/hello-world/</guid>
+            <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll *&lt;em&gt;delete&lt;/em&gt; this later.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h1 id="hello-world">Hello World!</h1>
+<p>I&rsquo;ll *<em>delete</em> this later.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
