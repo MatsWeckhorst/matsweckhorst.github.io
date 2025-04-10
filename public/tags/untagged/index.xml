@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Untagged on Hello There</title>
-    <link>https://weckhorst.no/tags/untagged/</link>
+    <link>http://localhost:1313/tags/untagged/</link>
     <description>Recent content in Untagged on Hello There</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 09 Apr 2025 10:35:40 +0200</lastBuildDate>
-    <atom:link href="https://weckhorst.no/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Apr 2025 23:28:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello World</title>
-      <link>https://weckhorst.no/posts/hello-world/</link>
-      <pubDate>Wed, 09 Apr 2025 10:35:40 +0200</pubDate>
-      <guid>https://weckhorst.no/posts/hello-world/</guid>
-      <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World!&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ll *&lt;em&gt;delete&lt;/em&gt; this later.&lt;/p&gt;</description>
+      <title>Again</title>
+      <link>http://localhost:1313/posts/again/</link>
+      <pubDate>Thu, 10 Apr 2025 23:28:22 +0200</pubDate>
+      <guid>http://localhost:1313/posts/again/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
